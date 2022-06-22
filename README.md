@@ -1,5 +1,5 @@
-# shecode-assessment
-
+# shecode-assessment url
+sneakercompany.netlify.app
 ## Project setup
 ```
 npm install
