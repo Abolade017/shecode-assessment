@@ -9,7 +9,7 @@
         <div class="md:flex space-x-10 items-center hidden" v-for="link in links" :key="link.id">
           <ul>
           <li class="hover:text-yellow-600 py-4" >
-            <a :href="'https://sneakercompany.netlify.app/' + link.name" class="">{{link.name}}</a>
+            <a :href="'/' + link.name" class="">{{link.name}}</a>
         </li>
         </ul>
         </div>
